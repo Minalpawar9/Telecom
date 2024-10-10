@@ -51,14 +51,17 @@ How does the presence or absence of internet service affect customer churn rates
 
 
 ## Statistical Tests 
-- feature selection techniques such as ANOVA test( F1-score) and chi-square test which improved model performance.
+feature selection techniques such as ANOVA test( F1-score) and chi-square test which improved model performance.
 - Chi Square Test (categorical_features)
+
 ![](https://github.com/user-attachments/assets/f1526a5d-6210-4fee-b58a-c04ca3ef7a8d)
-- Contract has the highest score because it strongly influences customer churn. Short-term contracts offer flexibility, leading to higher churn,while long-term contracts create retention, - making it a key predictor of customer behavior.
+Contract has the highest score because it strongly influences customer churn. Short-term contracts offer flexibility, leading to higher churn,while long-term contracts create retention, - making it a key predictor of customer behavior.
 
 - Anova Testing (Numerical features) or F-score
+
 ![](https://github.com/user-attachments/assets/b550f0cc-084f-436a-82c1-8ea4432ef853)
-- "Tenure" has the highest ANOVA score, indicating its strong influence on predicting customer churn.
+
+"Tenure" has the highest ANOVA score, indicating its strong influence on predicting customer churn.
 
 ## Correlation 
 ![](https://github.com/user-attachments/assets/e6b6c0ab-1134-4ec8-98e5-166b1e7c947f)
