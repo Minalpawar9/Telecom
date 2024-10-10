@@ -15,7 +15,7 @@ This project aims to develop a machine learning model to predict customer churn 
 - Feature Engineering
 - Model Building
 - Model Comparison
-- 
+
 ## Technologies Used
 - Python
 - Pandas
@@ -49,6 +49,7 @@ How does the presence or absence of internet service affect customer churn rates
 5. How does the type of internet service (DSL, Fiber Optic, None) influence monthly charges and customer churn?
 ![](https://github.com/user-attachments/assets/58127f14-2769-4c17-89ad-b19be2de7a3a)
 
+
 ## Statistical Tests 
 - feature selection techniques such as ANOVA test( F1-score) and chi-square test which improved model performance.
 - Chi Square Test (categorical_features)
@@ -72,6 +73,7 @@ How does the presence or absence of internet service affect customer churn rates
 
 ## Model Development
 - Built a customer churn prediction model using various algorithms, including Logistic Regression, Random Forest, and Support Vector Machine (SVM).
+
 ## Model Comparison
 | Accuracy Score | Model Name    |
 |----------------|---------------|
@@ -80,6 +82,7 @@ How does the presence or absence of internet service affect customer churn rates
 | 0.77           | KNN           |
 | 0.77           | XGB           |
 | 0.77           | RANDOM_F      |
+
 
 ## Results
 - Achieved an accuracy of **80%** with the Logistic Regression model, with additional performance metrics indicating:
