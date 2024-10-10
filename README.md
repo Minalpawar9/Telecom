@@ -24,7 +24,7 @@ This project aims to develop a machine learning model to predict customer churn 
 ## Exploratory Data Analysis
 - Visualized data distributions and relationships using Seaborn and Matplotlib.
 - Analyzed feature importance using Random Forest.
-- ![](C:\Users\appsl\Downloads\e.png)
+- ![What is the proportion of customers who have churned versus those who have not churned?](C:\Users\appsl\Downloads\e.png)
 
 
 ## Model Development
