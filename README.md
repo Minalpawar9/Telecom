@@ -2,6 +2,33 @@
 # Project Overview
 This project aims to develop a machine learning model to predict customer churn for a telecom company. The goal is to identify potential churn risks and provide insights to improve customer retention strategies.
 
+## Problem Description 
+
+### Why are customers leaving the company?
+
+The reasons behind customer churn could be:
+
+- **High charges**
+- **Better offers from competitors**
+- **Poor customer service**
+- **Some unknown reasons**
+
+### How to detect churn customers?
+
+You can detect potential churn by:
+
+- **Monitoring usage patterns**
+- **Analyzing complaints**
+- **Comparing competitors' offers**
+
+### How to prevent customers from leaving?
+
+Once you identify high-risk customers, apply the following strategies:
+
+- **Retention plans**: Offer personalized deals, discounts, or loyalty rewards.
+- **Improve customer service**: Enhance the customer support experience to better meet customer needs.
+
+
 ## Project Highlights🚀
 - Conducted exploratory data analysis to uncover insights and patterns within the dataset. 
 - Built predictive models using machine learning algorithms like Random Forest Classifier.
