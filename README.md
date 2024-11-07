@@ -119,3 +119,4 @@ Contract has the highest score because it strongly influences customer churn. Sh
   - Precision: 0.62
   - Recall: 0.43
   - F1-Score: 0.50
+## Power Bi Dashboard : https://drive.google.com/file/d/1ay3vAbHMTCJM7OpBTesRkGvTTeGAolU9/view?usp=drive_link
